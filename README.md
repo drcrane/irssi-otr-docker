@@ -40,6 +40,6 @@ References
 
 * [https://github.com/cryptodotis/irssi-otr](https://github.com/cryptodotis/irssi-otr)
 * [https://github.com/off-the-record/libotr](https://github.com/off-the-record/libotr)
-* [https://hub.docker.com/_/irssi/](https://hub.docker.com/_/irssi/)
+* [https://registry.hub.docker.com/u/jess/irssi/](https://registry.hub.docker.com/u/jess/irssi/)
 * [https://github.com/jessfraz/irssi](https://github.com/jessfraz/irssi)
 
