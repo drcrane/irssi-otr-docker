@@ -33,5 +33,13 @@ If you have no keys they will be generated and saved in
 `$HOME/.irssi/otr`... pretty useful.
 
 That is all very brief so please see the project's README file
-on GitHub.
+on GitHub. Link in the references.
+
+References
+----------
+
+* [https://github.com/cryptodotis/irssi-otr](https://github.com/cryptodotis/irssi-otr)
+* [https://github.com/off-the-record/libotr](https://github.com/off-the-record/libotr)
+* [https://hub.docker.com/_/irssi/](https://hub.docker.com/_/irssi/)
+* [https://github.com/jessfraz/irssi](https://github.com/jessfraz/irssi)
 
